@@ -85,6 +85,11 @@ The Power BI semantic model is built around a release-level performance fact tab
 ![Power BI Data Model](Assets/Data%20Model.png)
 
 
+## DAX Measures
+
+[View Key DAX Measures](DAX/key-measures.md)
+
+
 ## Business Recommendations
 
 1. **Improve delivery predictability.** Investigate planning and execution constraints across teams consistently missing the 90% on-time release target.
